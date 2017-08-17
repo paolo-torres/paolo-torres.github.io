@@ -2,6 +2,8 @@ html, body {
 	height: 100%;
 	text-align: center;
 	color: black;
+	max-width: 100%;
+	overflow-x: hidden;
 }
 
 #snow {
