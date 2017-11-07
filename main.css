@@ -81,15 +81,15 @@ h8 {
 }
 
 #navbuttons {
-    color: black;
-    border-color: transparent;
-    text-transform: uppercase;
-    padding: 0;
-    border-width: 2px;
-    border-style: solid;
-    display: inline-block;
-    -webkit-transition-duration: .3s;
-    transition-duration: .3s;
+        color: black;
+        border-color: transparent;
+        text-transform: uppercase;
+        padding: 0;
+        border-width: 2px;
+        border-style: solid;
+        display: inline-block;
+        -webkit-transition-duration: .3s;
+        transition-duration: .3s;
 }
 
 .jumbotron {
