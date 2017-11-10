@@ -120,7 +120,7 @@ h8 {
 
 .about {
 	padding-bottom: 25px;
-	background: white;
+	background: black;
 }
 
 .about img {
@@ -131,7 +131,7 @@ h8 {
 	margin-bottom: 20px;
 	border: 15px solid transparent;
 	border-radius: 500px;
-	box-shadow: 0px 0px 10px 0px rgba(0,0,0,1);
+	box-shadow: 0px 0px 10px 0px rgba(255,255,255,1);
 }
 
 .about p {
@@ -139,7 +139,7 @@ h8 {
 	font-size: 20px;
 	text-align: center;
 	line-height: 1.5;
-	color: #black;
+	color: #efefef;
 }
 
 .experience {
