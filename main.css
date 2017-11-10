@@ -80,15 +80,15 @@ h8 {
 }
 
 #navbuttons {
-        color: black;
-        border-color: transparent;
-        text-transform: uppercase;
-        padding: 0;
-        border-width: 2px;
-        border-style: solid;
-        display: inline-block;
-        -webkit-transition-duration: .3s;
-        transition-duration: .3s;
+	color: black;
+	border-color: transparent;
+	text-transform: uppercase;
+	padding: 0;
+	border-width: 2px;
+	border-style: solid;
+	display: inline-block;
+	-webkit-transition-duration: .3s;
+	transition-duration: .3s;
 }
 
 .jumbotron {
@@ -103,10 +103,10 @@ h8 {
 	position: absolute;
 	left: 50%;
 	top: 50%;
-        -webkit-transform: translateX(-50%) translateY(-50%);
-        -moz-transform: translateX(-50%) translateY(-50%);
-        -ms-transform: translateX(-50%) translateY(-50%);
-        -o-transform: translateX(-50%) translateY(-50%);
+	-webkit-transform: translateX(-50%) translateY(-50%);
+	-moz-transform: translateX(-50%) translateY(-50%);
+	-ms-transform: translateX(-50%) translateY(-50%);
+	-o-transform: translateX(-50%) translateY(-50%);
 	transform: translateX(-50%) translateY(-50%);
 }
 
@@ -192,9 +192,9 @@ h8 {
 	-webkit-transition-duration: .5s;
 	transition-duration: .5s;
 	-webkit-transform: translateX(0%) translateY(-130%);
-        -moz-transform: translateX(0%) translateY(-130%);
-        -ms-transform: translateX(0%) translateY(-130%);
-        -o-transform: translateX(0%) translateY(-130%);
+	-moz-transform: translateX(0%) translateY(-130%);
+	-ms-transform: translateX(0%) translateY(-130%);
+	-o-transform: translateX(0%) translateY(-130%);
 	transform: translateX(0%) translateY(-130%);
 }
 
