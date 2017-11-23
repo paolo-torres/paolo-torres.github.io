@@ -91,6 +91,12 @@ h8 {
 	transition-duration: .3s;
 }
 
+.navbar-collapse.in {
+	overflow: hidden;
+	max-height: none !important;
+	height: auto !important;
+}
+
 .jumbotron {
 	background-image: url(Content/Aurora.jpeg);
 	height: 100%;
