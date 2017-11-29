@@ -169,8 +169,13 @@ h8 {
 	-moz-transition: .5s;
 	-webkit-transition: .5s;
 	transition: .5s;
-	max-width: 50%;
-	margin: auto;
+}
+
+@media only screen and (min-width: 767px) {
+	.col-md-4 {
+		max-width: 50%;
+		margin: auto;
+	}
 }
 
 .col-md-4:hover {
