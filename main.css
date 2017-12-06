@@ -102,7 +102,6 @@ h8 {
 	height: 100%;
 	background-size: cover;
 	background-position: center;
-	background-attachment: fixed;
 	margin-bottom: 0px;
 }
 
@@ -153,7 +152,6 @@ h8 {
 	background-image: url(Content/Sky.jpeg);
 	background-size: cover;
 	background-position: center;
-	background-attachment: fixed;
 	padding-bottom: 25px;
 }
 
@@ -198,7 +196,6 @@ h8 {
 	background-image: url(Content/Water.jpg);
 	background-size: cover;
 	background-position: center;
-	background-attachment: fixed;
 }
 
 #socialbuttons {
