@@ -11,6 +11,7 @@ h2 { /* jumbotron program and school */
 	line-height: 1.5;
 	text-align: center;
 	color: #efefef;
+	text-shadow: 3px 3px black;
 }
 
 h3 { /* section titles */
@@ -19,6 +20,7 @@ h3 { /* section titles */
 	letter-spacing: 14px;
 	line-height: 1.5;
 	color: #efefef;
+	text-shadow: 3px 3px black;
 }
 
 h4 { /* grid titles */
@@ -61,6 +63,7 @@ h8 { /* copyright */
 	line-height: 1.5;
 	text-transform: none;
 	color: #efefef;
+	text-shadow: 2px 2px black;
 }
 
 #nav {
@@ -100,6 +103,7 @@ h8 { /* copyright */
 	background-size: cover;
 	background-position: center;
 	background-color: black;
+	background: linear-gradient(red, black);
 	margin-bottom: 0px;
 }
 
@@ -119,6 +123,7 @@ h8 { /* copyright */
 	font-size: 100px;
 	text-align: center;
 	color: #efefef;
+	text-shadow: 5px 5px black;
 }
 
 .about {
@@ -193,6 +198,7 @@ h8 { /* copyright */
 	background-size: cover;
 	background-position: center;
 	background-color: black;
+	background: linear-gradient(black, red);
 }
 
 #socialbuttons {
