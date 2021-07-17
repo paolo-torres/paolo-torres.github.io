@@ -5,18 +5,18 @@ html, body {
 	max-width: 100%;
 }
 
-h2 { /* jumbotron program and school */
+h2 { /* jumbotron details */
 	font-family: 'Verdana', sans-serif;
-	font-size: 30px;
+	font-size: 25px;
 	line-height: 1.5;
 	text-align: center;
 	color: black;
-	text-shadow: 2px 2px #efefef;
+	text-shadow: 1px 1px #efefef;
 }
 
 h3 { /* section titles */
 	font-family: 'Roboto', sans-serif;
-	font-size: 35px;
+	font-size: 30px;
 	letter-spacing: 14px;
 	line-height: 1.5;
 	color: #efefef;
@@ -83,7 +83,6 @@ h8 { /* copyright */
 #navbuttons {
 	color: black;
 	border-color: transparent;
-	text-transform: uppercase;
 	padding: 0;
 	border-width: 2px;
 	border-style: solid;
@@ -120,10 +119,11 @@ h8 { /* copyright */
 
 .jumbotron h1 {  /* jumbotron name */
 	font-family: 'Verdana', sans-serif;
-	font-size: 100px;
+	font-size: 50px;
+	font-weight: bold;
 	text-align: center;
 	color: black;
-	text-shadow: 3px 3px #efefef;
+	text-shadow: 2px 2px #efefef;
 }
 
 .jumbotron img {
